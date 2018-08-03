@@ -29,3 +29,9 @@ build
 
 #VScode
 .vscode
+
+# OSX Noise
+.DS_Store
+
+# Carthage
+Carthage/
